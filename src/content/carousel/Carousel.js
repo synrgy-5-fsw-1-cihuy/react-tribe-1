@@ -19,24 +19,24 @@ const CarouselTribe = () => {
               <Carousel.Item>
                 <Img className="d-block w-100" src="https://image.kabarbumn.com/3/0/5/1/3051.JPG" alt="First slide" />
                 <Carousel.Caption>
-                  <h3>First slide label</h3>
-                  <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+                  <h3>Fun Fact Brokoli Pertama</h3>
+                  <p>Brokoli adalah tanaman yang berasal dari Italia. Sayuran ini pertama kali ditanam di provinsi Calabria, Italia. Oleh karena itu, pada awalnya sayuran ini diberi nama Calabrese.</p>
                 </Carousel.Caption>
               </Carousel.Item>
               <Carousel.Item>
                 <Img className="d-block w-100" src="https://akcdn.detik.net.id/api/wm/2020/10/02/tanaman-brokoli_169.jpeg" alt="Second slide" />
 
                 <Carousel.Caption>
-                  <h3>Second slide label</h3>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                  <h3>Fun Fact Brokoli Kedua</h3>
+                  <p>Brokoli adalah sumber vitamin A, vitamin C, potassium, zat besi dan serat terbaik.</p>
                 </Carousel.Caption>
               </Carousel.Item>
               <Carousel.Item>
                 <Img className="d-block w-100" src="https://cdn.idntimes.com/content-images/post/20200923/1-0ebd7a4c6c372b46f953a2741b57ebe7.jpg" alt="Third slide" />
 
                 <Carousel.Caption>
-                  <h3>Third slide label</h3>
-                  <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+                  <h3>Fun Fact Brokoli Ketiga</h3>
+                  <p>Brokoli mengandung banyak zat phythocemical penting seperti beta-karotin, indoles, dan isotiosianat, yang berfungsi untuk mencegah pembentukan carcinogen, zat penyebab kanker.</p>
                 </Carousel.Caption>
               </Carousel.Item>
             </Carousel>
