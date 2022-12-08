@@ -5,7 +5,7 @@ import Col from 'react-bootstrap/Col';
 const Footer = () => {
     return (
         <div>
-            <Container>
+            <Container fluid className="bg-success text-white pt-3">
                 <Row>
                     <Col>
                         <p>Jalan Suroyo No. 161 Mayangan Kota Probolonggo 672000</p>
