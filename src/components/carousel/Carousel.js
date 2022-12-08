@@ -12,7 +12,7 @@ const Img = styled.img`
 const CarouselTribe = () => {
   return (
     <div>
-      <Container>
+      <Container className="my-5">
         <Row className="justify-content-center">
           <Col xs="10">
             <Carousel fade>
