@@ -5,7 +5,7 @@ import Row from 'react-bootstrap/Row';
 
 function ContentTribe() {
     return (
-        <Container>
+        <Container className="my-5">
             <Row xs={1} md={2} className="g-4">
                 <Col>
                     <Card>
